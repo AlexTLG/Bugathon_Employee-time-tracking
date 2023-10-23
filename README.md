@@ -8,6 +8,6 @@ Time tracker. Records how much time it took to complete tasks, helps to improve 
 Software for a freelancer to evaluate performance, tracking statistics, a screen with tasks with a timeline like in a calendar, and an employee can plan his day by time.
 
 ## :page_with_curl: Найденные баги / Bugs found:
-- [Найденные баги / Bugs list](https://github.com/AlexTLG/Bugathon_Employee-time-tracking/blob/main/%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%204-1.pdf)
+- :spider_web:[Найденные баги / Bugs list](https://github.com/AlexTLG/Bugathon_Employee-time-tracking/blob/main/%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%204-1.pdf)
 - [Баг-репорты / Bug reports](https://github.com/AlexTLG/Bugathon_Employee-time-tracking/blob/main/BUG-reports.pdf)
 - [Сертификат команды / Team Cert](https://github.com/AlexTLG/Bugathon_Employee-time-tracking/blob/main/Team%20Cert.pdf)
