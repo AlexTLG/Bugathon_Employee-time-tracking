@@ -1,4 +1,4 @@
-# :mag_right: Багатон Web-приложение «Учет рабочего времени сотрудника» / Bugathon "Employee time tracking"
+# :mag_right: Багатон - Web-приложение «Учет рабочего времени сотрудника» / Bugathon - "Employee time tracking"
 
 ## :page_facing_up: Описание / Description:
 Тайм-трекер. Фиксирует, сколько времени ушло на выполнение задач, помогает улучшить концентрацию и повысить продуктивность. Так же их использование позволяет ответить на вопрос «А куда уходит время?».
@@ -10,4 +10,4 @@ Software for a freelancer to evaluate performance, tracking statistics, a screen
 ## :star: Найденные баги / Bugs found:
 - :spider_web:[Найденные баги / Bugs list](https://github.com/AlexTLG/Bugathon_Employee-time-tracking/blob/main/%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%204-1.pdf)
 - :page_with_curl:[Баг-репорты / Bug reports](https://github.com/AlexTLG/Bugathon_Employee-time-tracking/blob/main/BUG-reports.pdf)
-- [Сертификат команды / Team Cert](https://github.com/AlexTLG/Bugathon_Employee-time-tracking/blob/main/Team%20Cert.pdf)
+- :scroll:[Сертификат команды / Team Cert](https://github.com/AlexTLG/Bugathon_Employee-time-tracking/blob/main/Team%20Cert.pdf)
